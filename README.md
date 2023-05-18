@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To install Node Modules:
+
+### `npm install`
+
 To start frontend:
 
 ### `npm start`
